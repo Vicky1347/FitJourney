@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "229748420116",
+    "project_id": "fitjourney-a8e3e",
+    "storage_bucket": "fitjourney-a8e3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229748420116:android:bdc7921f07fc64a45ac101",
+        "android_client_info": {
+          "package_name": "com.example.fitjourney"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFmJWP5_ZAHNSpceYh_v0d9x8SE7_bTxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
